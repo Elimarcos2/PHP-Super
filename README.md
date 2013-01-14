@@ -1,4 +1,4 @@
 PHP-Super
 =========
 
-Baixe scripts para sites
+<a href="aaa">Baixe scripts em: </a>
